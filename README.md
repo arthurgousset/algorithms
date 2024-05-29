@@ -56,4 +56,3 @@ For example:
         print(dictionary["name"])  # Output: Alice
         ```
 
-    ˝
