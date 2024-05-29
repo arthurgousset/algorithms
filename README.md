@@ -34,7 +34,7 @@ For example:
 
 1.  "Associative Array" (JavaScript Object)
 
-    ```javascript
+    ```js
     let associativeArray = {
       name: "Alic",
       age: 30,
@@ -46,13 +46,12 @@ For example:
 
 1.  "Dictionary" (Python)
 
-        ```python
-        dictionary = {
-            "name": "Alice",
-            "age": 30,
-            "job": "Software Engineer"
-        }
+    ```py
+    dictionary = {
+        "name": "Alice",
+        "age": 30,
+        "job": "Software Engineer"
+    }
 
-        print(dictionary["name"])  # Output: Alice
-        ```
-
+    print(dictionary["name"])  # Output: Alice
+    ```
